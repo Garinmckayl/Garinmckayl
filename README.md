@@ -101,10 +101,10 @@ Blockchain related cool stuff.
 ### You can find me 📞
 
 <p>
-<a href="mailto:natnael.getenew@addissoftware.com" alt="E-mail" target="_blank">
+<a href="mailto:natnaelgetenew@gmail.com" alt="E-mail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/natnaelgetenew/" alt="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/natnael-getenew-%E9%AB%98%E9%92%A8%E7%BB%A9/" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
