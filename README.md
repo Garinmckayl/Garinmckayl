@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on
  <p>
-Blockchain related cool stuff.
+Machine Learning and Blockchain related cool stuff.
 </p>
 
     
