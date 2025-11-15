@@ -3,7 +3,7 @@
 
  <div>
   <a href="https://github.com/Garinmckayl">
-### 🔭 I’m currently working on
+🔭 I’m currently working on
  <p>
 Machine Learning and Blockchain related cool stuff.
 </p>
