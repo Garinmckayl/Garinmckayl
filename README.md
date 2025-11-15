@@ -3,8 +3,6 @@
 
  <div>
   <a href="https://github.com/Garinmckayl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garinmckayl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
 ### 🔭 I’m currently working on
  <p>
 Machine Learning and Blockchain related cool stuff.
