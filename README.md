@@ -29,43 +29,9 @@ Machine Learning and Blockchain related cool stuff.
 
 
     
-    
-### Databases 🖌️
-
-<p>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Mongodb-003545?style=for-the-badge&logo=mongodb&logoColor=green" height="30"/>
-<img src="https://img.shields.io/badge/PostgreSQL-003545?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="30"/>
-</p>
 
     
-### DevOps 🌩
 
-<p>
-<img src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="30"/>
-</p>
-    
-### Package Manager 📦
-<p>
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=yarn&logoColor=white" height="30"/>
-</p>
-
-### Tools 🧰
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" height="30"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
-
-</p>
 
 
 
