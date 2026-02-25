@@ -1,5 +1,5 @@
 
-# Nathaniel Getenew
+# Natnael Getenew Zeleke
 
  <div>
   <a href="https://github.com/Garinmckayl">
@@ -12,28 +12,10 @@ Machine Learning and Blockchain related cool stuff.
 
 
 
-#### Machine Learning
-<p>
-   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-</p>
-    
-#### Blockchain
-<p>
-   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" height="30"/>
-   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" height="30"/>
-</p>
 
 
 
     
-
-    
-
-
-
 
 
 ### You can find me 📞
