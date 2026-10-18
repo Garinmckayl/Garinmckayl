@@ -19,3 +19,5 @@
 - **[shelltutor](https://github.com/Garinmckayl/shelltutor)**: Interactive shell command tutor powered by GitHub Copilot CLI, with hands-on challenges and AI evaluation.
 - **[devlog-cli](https://github.com/Garinmckayl/devlog-cli)**: AI developer journal that turns your git history into meaningful narratives, using GitHub Copilot CLI.
 - **[Kesa](https://github.com/Garinmckayl/kesa)**: Investigative case management platform (Next.js and Supabase) for investigators and security teams. It has a 15-table schema with row-level security.
+- **[Prism](https://github.com/Garinmckayl/prism)**: One story, many AI perspectives. An AI perspective explorer and Alexa+ MCP skill that shows where frontier models agree, diverge and leave blind spots, scored with a 0-100 AI Divergence Index. [Live product](https://prism.arcumet.com).
+- **[Hearth](https://github.com/Garinmckayl/hearth)**: Your TV has someone in it. Pip is a playful AI entertainment companion living in your television, with Amazon Nova 2 Sonic voice, memory, and movie night with spoken play/pause.
