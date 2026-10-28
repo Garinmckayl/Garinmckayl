@@ -1,4 +1,4 @@
-## Some of Projects
+## Some of my Projects
 
 - **[Tilt](https://github.com/Garinmckayl/tilt)**: Ground News for AI. Asks the same controversial question to Claude, Llama and DeepSeek on Amazon Bedrock and shows how each one frames it on a stance spectrum, with verifiable quotes. [Live demo](https://tilt.35-166-228-8.sslip.io).
 - **[Anima](https://github.com/Garinmckayl/anima)** : Claude Code skill that turns a biology idea into an interactive, sourced, isometric figure (dopamine receptors, addiction circuits, semaglutide).
